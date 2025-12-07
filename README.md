@@ -131,8 +131,8 @@ The dashboard reveals:
 
 ## Dashboard Preview
 
-![Bank Loan Summary](images/summary_page.png)
-![Loan Overview](images/overview_page.png)
-![Loan Details](images/details_page.png)
+![Bank Loan Summary](https://github.com/Keerthana-Hemarao/Bank-Loan-Analysis-Dashboard/blob/b694e0e19cb8c0c966d8fb340ac59320a1e7fb4e/Bank%20Loan%20Report%20-%20Summary.png)
+![Loan Overview](https://github.com/Keerthana-Hemarao/Bank-Loan-Analysis-Dashboard/blob/b694e0e19cb8c0c966d8fb340ac59320a1e7fb4e/Bank%20Loan%20Report%20-%20Overview.png)
+![Loan Details](https://github.com/Keerthana-Hemarao/Bank-Loan-Analysis-Dashboard/blob/b694e0e19cb8c0c966d8fb340ac59320a1e7fb4e/Bank%20Loan%20Report%20-%20Details.png)
 
 
